@@ -9,7 +9,7 @@ import javafx.scene.shape.Shape;
  */
 
 /**
- * @author Lerato Thibile
+ * @author Kazo0o
  *
  */
 public class Asteroid extends PhysicsObject {
