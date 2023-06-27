@@ -10,7 +10,7 @@ import javafx.scene.transform.Scale;
  */
 
 /**
- * @author Lerato Thibile
+ * @author Kazo0o
  *
  */
 public class Ship extends PhysicsObject {
