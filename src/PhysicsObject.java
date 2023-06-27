@@ -10,7 +10,7 @@ import javafx.scene.transform.Translate;
  */
 
 /**
- * @author Lerato Thibile
+ * @author Kazo0o
  *
  */
 public abstract class PhysicsObject {
