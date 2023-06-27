@@ -20,7 +20,7 @@ import java.util.LinkedList;
  */
 
 /**
- * @author Lerato Thibile
+ * @author Kazo0o
  *
  */
 public class Main extends Application{
